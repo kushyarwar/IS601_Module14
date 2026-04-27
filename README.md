@@ -121,13 +121,18 @@ DOCKERHUB_TOKEN
 
 ## Screenshots
 
-Add these screenshots before final submission:
+### GitHub Actions Successful Workflow
 
-| Requirement | File |
-|-------------|------|
-| GitHub Actions successful workflow | `Screenshots/1.png` |
-| Docker Hub pushed image | `Screenshots/2.png` |
-| Calculation add/browse in front-end | `Screenshots/3.png` |
-| Calculation read/edit/delete in front-end | `Screenshots/4.png` |
+![GitHub Actions successful workflow](Screenshots/1.png)
 
-The repository currently includes the `Screenshots` folder so the files can be replaced with final Module 14 captures.
+### Docker Hub Pushed Image
+
+![Docker Hub pushed image](Screenshots/2.png)
+
+### Calculation Add and Browse
+
+![Calculation add and browse](Screenshots/3.png)
+
+### Calculation Read, Edit, and Delete
+
+![Calculation read edit and delete](Screenshots/4.png)
